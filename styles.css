@@ -1,0 +1,32 @@
+body {
+    list-style-position: inside;
+    background-color: black;
+}
+
+p {
+    font-size: 10px;
+    text-align: center;
+    color: rgb(188, 32, 128);
+}
+
+ul {
+    color: rgb(188, 32, 128);
+}
+
+.image {
+    width: 502px;
+    border: 4px dotted black;
+    margin: 0 auto;
+    background-color: rgb(188, 32, 128);
+    align-items: center;
+}
+
+#header {
+    text-align: center;
+    color: rgb(188, 32, 128);
+}
+
+#facts {
+    text-align: center;
+    color: rgb(188, 32, 128);
+}
